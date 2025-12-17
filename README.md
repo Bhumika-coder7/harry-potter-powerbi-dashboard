@@ -135,6 +135,21 @@ Harry-Potter-PowerBI-Dashboard/
 - Portfolio-ready analytics project execution  
 
 ---
+## 📥 How to View the Dashboard
+
+To explore the full interactive dashboard:
+
+1. Clone this repository or download it as a ZIP file.
+2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+   - Power BI Desktop is free and can be downloaded from:
+     https://powerbi.microsoft.com/desktop/
+3. Once opened, you can:
+   - Interact with all visuals
+   - Explore insights using filters
+   - Review the data model and DAX measures
+
+⚠️ Note: Power BI Desktop is required to view and interact with the dashboard.
+--- 
 
 ## 📌 Author
 
