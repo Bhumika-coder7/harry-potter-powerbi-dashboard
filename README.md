@@ -15,6 +15,11 @@ The goal of this project is to:
 This project is created **purely for learning and portfolio purposes**.
 
 ---
+## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
+
+![Harry Potter Power BI Dashboard](images/dashboard_overview.png)
+---
 
 ## 📊 Dashboard Overview
 
@@ -120,11 +125,6 @@ Harry-Potter-PowerBI-Dashboard/
 │   
 └── README.md
 ```
----
-## 🖼️ Dashboard Preview
-
-Preview images of the final dashboard are available in the `/images` folder.
-
 ---
 
 ## 🚀 What This Project Demonstrates
