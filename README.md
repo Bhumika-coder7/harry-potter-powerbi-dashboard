@@ -116,9 +116,8 @@ Harry-Potter-PowerBI-Dashboard/
 │   └── Harry_Potter_Dashboard.pbix
 │
 ├── images/
-│   ├── dashboard_page_1.png
-│   └── dashboard_page_2.png
-│
+│   └── dashboard_page_1.png
+│   
 └── README.md
 ```
 ---
