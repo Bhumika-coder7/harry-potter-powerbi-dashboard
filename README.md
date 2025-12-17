@@ -17,7 +17,7 @@ This project is created **purely for learning and portfolio purposes**.
 ---
 ## 🖼️ Dashboard Preview
 
-![Harry Potter Power BI Dashboard](images/Harry_Potter_Dashboard.png)
+![Harry Potter Power BI Dashboard](Harry_Potter_Dashboard.png)
 ---
 
 ## 📊 Dashboard Overview
